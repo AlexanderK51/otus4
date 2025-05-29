@@ -1,0 +1,9 @@
+Architecture: amd64
+Description: printip built using CMake
+Maintainer: example@example.com
+Package: printip.0.0.1
+Priority: optional
+Section: devel
+Version: 0.0.1
+Installed-Size: 4
+
